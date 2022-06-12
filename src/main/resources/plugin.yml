@@ -1,4 +1,4 @@
 name: VkBotAPI
 version: '${project.version}'
-main: ru.winlocker.vkbotapi.vkbotapi.VkBotAPI
+main: ru.winlocker.vkbotapi.VkBotAPI
 author: MrHaber
