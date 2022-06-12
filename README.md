@@ -1,4 +1,4 @@
-# API for using bukkit plugins
+# Bot VK API for using bukkit plugins
 
 ### Maven dependency
 ```xml
@@ -13,8 +13,8 @@
     <dependencies>
         <dependency>
             <groupId>com.github.winlocker02</groupId>
-            <artifactId>wAPI</artifactId>
-            <version>1.1</version>
+            <artifactId>VkBotAPI</artifactId>
+            <version>VERSION</version>
         </dependency>
     </dependencies>
 
