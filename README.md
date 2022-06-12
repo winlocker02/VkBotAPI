@@ -1,6 +1,8 @@
 # Bot VK API for using bukkit plugins
 
 #### Bot VK Repository: https://github.com/MrHaber/BotClient_Pre-Realise
+#### Example: https://github.com/MrHaber/BotClientExternalUsageExample
+
 #### Developer: https://github.com/MrHaber
 
 ### Maven dependency
